@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+         padding: 0.50px;
+
+}
+
+header nav div h2{
+    color:beige
+}
+header nav ul{
+    display:flex;
+    gap: 20px;
+}header nav ul li{
+    list-style-type: none;
+
+}header nav a{
+    color:azure
+    text-decoration none
+}
+
+header nav ul li achor:hover{ 
+    color:coral
+}
